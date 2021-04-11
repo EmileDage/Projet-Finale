@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: b2882b52c41a8234ea569035aa9b9ff9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6078174565630737844
+    second: Food-Icons_frite
+  - first:
+      213: 7365538512899851202
+    second: Food-Icons_cake
+  - first:
+      213: -7915778550009741632
+    second: Food-Icons_chickenLeg
+  - first:
+      213: -6620201638334559331
+    second: Food-Icons_taco
+  - first:
+      213: 2339983485242825857
+    second: Food-Icons_iceCream
+  - first:
+      213: -2005336099221693824
+    second: Food-Icons_pizza
+  - first:
+      213: -4436248625494822231
+    second: Food-Icons_bread
+  - first:
+      213: 2905147267573840867
+    second: Food-Icons_ramen
+  - first:
+      213: 1246605257427218477
+    second: Food-Icons_avocado
+  - first:
+      213: -7260973547957704667
+    second: Food-Icons_burger
+  - first:
+      213: -3677637955125416798
+    second: Food-Icons_cupcake
+  - first:
+      213: -1503369554370047670
+    second: Food-Icons_sausig
+  - first:
+      213: -6038232902049963571
+    second: Food-Icons_egg
+  - first:
+      213: -5796475129220303392
+    second: Food-Icons_hotdog
+  - first:
+      213: 2191461917075390635
+    second: Food-Icons_steak
+  - first:
+      213: 6703766407928953316
+    second: Food-Icons_donut
+  - first:
+      213: -2223627240538547750
+    second: Food-Icons_orange
+  - first:
+      213: 597516529722903880
+    second: Food-Icons_icepop
+  - first:
+      213: -4352280929012614185
+    second: Food-Icons_chicken
+  - first:
+      213: 3698380947273075109
+    second: Food-Icons_carrot
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Food-Icons_frite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4204c4af6cf5aba0800000000000000
+      internalID: -6078174565630737844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_cake
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1125
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3cad0d046a73660800000000000000
+      internalID: 7365538512899851202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_chickenLeg
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1125
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce330e2951852290800000000000000
+      internalID: -7915778550009741632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_taco
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1125
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0c9d6fa15024a0800000000000000
+      internalID: -6620201638334559331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_iceCream
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1125
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cdd22059a497020800000000000000
+      internalID: 2339983485242825857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_pizza
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a9f96417d9b24e0800000000000000
+      internalID: -2005336099221693824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_bread
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 750
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2f01e11674f62c0800000000000000
+      internalID: -4436248625494822231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_ramen
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 750
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7fe73c08215820800000000000000
+      internalID: 2905147267573840867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_avocado
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 750
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20751870e4dc4110800000000000000
+      internalID: 1246605257427218477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_burger
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 750
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52829764707db3b90800000000000000
+      internalID: -7260973547957704667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_cupcake
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6148c3c766fcc0800000000000000
+      internalID: -3677637955125416798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_sausig
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 375
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d2a10b55f22be0800000000000000
+      internalID: -1503369554370047670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_egg
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 375
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16c32ea23e33ca0800000000000000
+      internalID: -6038232902049963571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_hotdog
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 375
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ff6db498ce8fa0800000000000000
+      internalID: -5796475129220303392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_steak
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 375
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba04312b003a96e10800000000000000
+      internalID: 2191461917075390635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_donut
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93dc9a700980d50800000000000000
+      internalID: 6703766407928953316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_orange
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad951d65ec61421e0800000000000000
+      internalID: -2223627240538547750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_icepop
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dce853e1eca4800800000000000000
+      internalID: 597516529722903880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_chicken
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbfe7fed879993c0800000000000000
+      internalID: -4352280929012614185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food-Icons_carrot
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c84e60e9435330800000000000000
+      internalID: 3698380947273075109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
